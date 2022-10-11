@@ -95,5 +95,6 @@ Using the bar coupon example as motivation, you are to explore one of the other 
 1. What proportion of cheap restaurant coupons were accepted?
 71.32% percent of the coupons were accepted.
 2. What appears to influence to accept the coupon the most?
-Strangely bar visits, lack of kid passengers not windowed has the highest cheap reastaurant coupon acceptance rate. 81.74% vs 81.49% vs 71.09%
+Strangely bar visits, lack of kid passengers, being not windowed has the highest cheap reastaurant coupon acceptance rate. 81.74% vs 81.49% vs 71.09%
+
 Future exploration: converting fields to numerics to allow for more correlation, would help a lot in seeing how things relate.
